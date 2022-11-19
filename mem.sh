@@ -5,3 +5,4 @@ then
 	echo "Send mail"
 	echo "limit reached"|mail -s "limit reached" puja.manohar1993@gmail.com
 fi
+echo "cloned"
